@@ -19,6 +19,8 @@ const CONFIG = {
         exclude: {
           forks: true,
           projects: [
+            'hyperxnez/hyperxnez',
+            'hyperxnez/hyperxnez.github.io',
             'hyperxnez/grabboxprototype',
             'hyperxnez/moodin',
             'hyperxnez/java',
